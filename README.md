@@ -1,7 +1,9 @@
 # FullStack SaaS Project
 
-Atualização 20/02 - Alterando tecnologias de MongoDB para Postgres + typeORM e de javascript para typescript </br>
-Atualização 14/02 - Editando Readme
+### Updates
+21/02 - Adiciando rotas show, delete e update. </br>
+20/02 - Alterando tecnologias de MongoDB para Postgres + typeORM e de javascript para typescript </br>
+14/02 - Editando Readme
 
 Projeto fullstack que irei desenvolver para estudos durante o ano de 2021.
 Trata-se de um projeto SaaS para administração de restaurantes.
