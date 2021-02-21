@@ -1,6 +1,6 @@
 # FullStack SaaS Project
 
-Atualização 20/02 - Alterando tecnologias de MongoDB para typeORM | javascript para typescript </br>
+Atualização 20/02 - Alterando tecnologias de MongoDB para Postgres + typeORM e de javascript para typescript </br>
 Atualização 14/02 - Editando Readme
 
 Projeto fullstack que irei desenvolver para estudos durante o ano de 2021.
@@ -12,6 +12,7 @@ Tecnologias utilizadas (Atualizado 20/02):
 - Node
 - Typescript
 - Express
+- Postgres
 - TypeORM
 - JsonWebToken
 - Bcrypt (Criptografia da senha no banco de dados)
