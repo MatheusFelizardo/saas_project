@@ -1,6 +1,6 @@
 # FullStack SaaS Project
 
-Atualização 20/02 - Alterando tecnologias de MongoDB para typeORM | javascript para typescript
+Atualização 20/02 - Alterando tecnologias de MongoDB para typeORM | javascript para typescript </br>
 Atualização 14/02 - Editando Readme
 
 Projeto fullstack que irei desenvolver para estudos durante o ano de 2021.
