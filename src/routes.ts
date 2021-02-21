@@ -7,10 +7,14 @@ import AuthController from './app/controllers/AuthController'
 
 const routes = Router()
 
-routes.post("/users/create", UserController.store)
-routes.get("/users", authMiddleware, UserController.index)
+routes.post("/user/create", UserController.create)
+routes.get("/users/show", UserController.show)
+routes.delete("/user/delete", authMiddleware,UserController.delete)
 
-routes.post("/users/auth", AuthController.authenticate)
+routes.put("/user/update", authMiddleware, UserController.update)
+routes.get("/user/validate", authMiddleware, UserController.index) // Verificar se o token é valido e concluir o login
+
+routes.post("/user/auth", AuthController.authenticate) // Recebe usuário e senha para gerar o token
 
 
 
