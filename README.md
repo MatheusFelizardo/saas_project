@@ -1,6 +1,8 @@
 # FullStack SaaS Project
 
 ### 🔥 Updates   
+03/04 - Esse projeto atualmente está PARALISADO pois estou estudando Laravel/PHP por necessidade no trabalho.</br>
+Você poderá acompanhar a variação desse projeto desenvolvida em Laravel/PHP no repositório https://github.com/MatheusFelizardo/myfood_api. </br>
 21/02 - Adiciando rotas show, delete e update. </br>
 20/02 - Alterando tecnologias de MongoDB para Postgres + typeORM e de javascript para typescript </br>
 14/02 - Editando Readme
